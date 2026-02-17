@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 // Angelo Task 2 - Meal Calorie Estimator
-
 void main() {
   runApp(const MyApp());
 }
